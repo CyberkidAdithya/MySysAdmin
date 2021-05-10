@@ -1,0 +1,3 @@
+Compile the qrc file to get the py file
+
+pyrcc5 resources.qrc -o resources_rc.py

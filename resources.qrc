@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="rec">
+    <file>resources/sphere.gif</file>
+    <file>resources/lwFrame.jpg</file>
+    <file>resources/electric1.png</file>
+    <file>resources/circle.gif</file>
+    <file>resources/smile.gif</file>
+    <file>resources/bubble.gif</file>
+    <file>resources/greeny.jpg</file>
+    <file>resources/myPic2.jpg</file>
+    <file>resources/greenery.jpg</file>
+    <file>resources/minivector.jpg</file>
+    <file>resources/vectors.jpg</file>
+    <file>resources/frame3new.png</file>
+    <file>resources/frame3.png</file>
+    <file>resources/lightweightGIF.gif</file>
+    <file>resources/jarvisheart.jpg</file>
+  </qresource>
+</RCC>
